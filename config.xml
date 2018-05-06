@@ -28,5 +28,6 @@
     <plugin name="cordova-plugin-whitelist" spec="~1.2.0" />
     <plugin name="cordova-plugin-console" spec="~1.0.1" />
     <plugin name="cordova-plugin-statusbar" spec="~1.0.1" />
-    <plugin name="cordova-plugin-camera" spec="~4.0.3" />
+    <plugin name="org.apache.cordova.camera" spec="0.3.6" source="pgb" />
+    
 </widget>
